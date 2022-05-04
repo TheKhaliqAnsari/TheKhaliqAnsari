@@ -7,7 +7,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheKhaliqAnsari?label=Follow)](https://twitter.com/intent/follow?screen_name=TheKhaliqAnsari)
 [![Linkedin: anmol](https://img.shields.io/badge/-TheKhaliqAnsari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaliqansari/)](https://www.linkedin.com/in/khaliqansari/)
-![GitHub followers](https://img.shields.io/github/followers/HALAX?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/thekhaliqansari?label=Follow&style=social)
 
 
 <!--
