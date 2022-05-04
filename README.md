@@ -17,7 +17,7 @@
 const khaliq = {
     pronouns: "He" | "Him",
     code: ["C++", "JavaScript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "cyber security"],
+    askMeAbout: ["web dev", "tech", "automation", "cyber security"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
